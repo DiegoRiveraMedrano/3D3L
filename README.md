@@ -10,7 +10,7 @@ La página oficial de **3D3L ** está diseñada para proporcionar información c
 
 Este repositorio sirve como enlace directo al proyecto final y proporciona una visión general del mismo. Debido a la naturaleza privada del código, no se incluye el contenido del proyecto aquí, pero puedes acceder al sitio oficial de **3D3L S.A.S.** a través del siguiente enlace:
 
-[Visita la página oficial de 3D3L S.A.S.](https://www.3d3l.com.mx)
+[Visita la página oficial de 3D3L](https://www.3d3l.com.mx)
 
 ## Tecnologías utilizadas
 
@@ -20,9 +20,6 @@ Este repositorio sirve como enlace directo al proyecto final y proporciona una v
 - **PHP**: Backend y gestión de datos dinámicos.
 
 
-## Enlace al Proyecto
-
-Para ver el proyecto completo, por favor visita: [3D3L S.A.S. Página Oficial](https://www.3d3l.com.mx).
 
 ## Contribuciones
 
