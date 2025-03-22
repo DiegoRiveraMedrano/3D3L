@@ -1,6 +1,7 @@
 # 3D3L Página Oficial
 
 Este es un repositorio público que contiene la página oficial de **3D3L** desarrollada por mí. El código fuente y los archivos del proyecto son privados debido a la política interna de la empresa, pero este repositorio sirve como un enlace de acceso y como referencia de uno de los proyectos más importantes que he desarrollado.
+![Inicio](Video.1.gif)
 
 ## Descripción del Proyecto
 
